@@ -9,7 +9,7 @@ body {
 }
 
 .photoContainer {
-    background-color: rgba(128, 128, 128, 0.227); 
+    background-color: rgba(128, 128, 128, 0.124); 
     text-align: center;
     padding:10px;
  }
@@ -24,3 +24,4 @@ body {
     color:orange;
  }
 
+ 
