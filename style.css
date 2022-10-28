@@ -19,6 +19,11 @@ body {
     background-color: orange;
  }
 
+ h1 {
+    margin:0;
+    padding:19px;
+ }
+
  h2 {
     color:orange;
  }
