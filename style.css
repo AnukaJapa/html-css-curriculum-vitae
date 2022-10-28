@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.container {
+    width:70%;
+    margin:0 auto;
+}
+
+.photoContainer {
+   background-color: rgba(128, 128, 128, 0.543); 
+   text-align: center;
+}
